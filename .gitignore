@@ -166,3 +166,4 @@ archive
 NOTES_unredacted.md
 pyfastmp3decoder/
 
+!experiments/maduro_gpt.yml
