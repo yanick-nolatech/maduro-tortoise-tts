@@ -54,3 +54,7 @@ x_transformers==1.0.4
 bitsandbytes
 lion-pytorch==0.0.7
 # triton==2.0.0a2
+hangul-romanize==0.1.0
+num2words==0.5.13
+spacy
+pypinyin==0.51.0

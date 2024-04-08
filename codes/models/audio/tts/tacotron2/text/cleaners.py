@@ -15,7 +15,8 @@ hyperparameter. Some cleaners are English-specific. You'll typically want to use
 import re
 from unidecode import unidecode
 from .numbers import normalize_numbers
-from TTS.tts.layers.xtts.tokenizer import multilingual_cleaners
+# from TTS.tts.layers.xtts.tokenizer import multilingual_cleaners
+from .custom import multilingual_cleaners 
 
 
 # Regular expression matching whitespace:
